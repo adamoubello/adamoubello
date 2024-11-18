@@ -26,9 +26,9 @@ Contact me here :  <u>adamou.bello@gmail.com</u>   |   <a href="https://www.link
 
 ### Languages
 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-000?&logo=Kotlin)
@@ -65,6 +65,7 @@ Contact me here :  <u>adamou.bello@gmail.com</u>   |   <a href="https://www.link
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/-WINDOWS-000?&logo=Windows)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
