@@ -21,7 +21,7 @@ My name's Adamou Bello, I'm an experienced  software, devsecops and application 
 
 More of me in my professional website : https://adamoubello.com/
 
-Contact me here : adamou.bello@gmail.com  |  in/adamoubello  
+Contact me here : adamou.bello@gmail.com  |  in/adamoubello 
 
 
 ### Languages
