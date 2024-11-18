@@ -31,6 +31,17 @@ WELCOME TO MY PROFILE PAGE !
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/-POSTGRESQL-000?&logo=PostgreSQL)
+![SqlServer](https://img.shields.io/badge/-SQLSERVER-000?&logo=SqlServer)
+![Oracle](https://img.shields.io/badge/-ORACLE-000?&logo=Oracle)
+![MongoDB](https://img.shields.io/badge/-MONGODB-000?&logo=MongoDB)
+![SpringBoot](https://img.shields.io/badge/-SPRINGBOOT-000?&logo=SpringBoot)
+![Hibernate](https://img.shields.io/badge/-HIBERNATE-000?&logo=Hibernate)
+![Maven](https://img.shields.io/badge/-MAVEN-000?&logo=Maven)
+![Gradle](https://img.shields.io/badge/-GRADLE-000?&logo=Gradle)
+![Angular](https://img.shields.io/badge/-ANGULAR-000?&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000?&logo=Bootstrap)
+![Playwright](https://img.shields.io/badge/-PLAYWRIGHT-000?&logo=Playwright)
+![Ionic](https://img.shields.io/badge/-IONIC-000?&logo=Ionic)
 
 ### Technologies
 
@@ -42,4 +53,8 @@ WELCOME TO MY PROFILE PAGE !
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
-
+![Jenkins](https://img.shields.io/badge/-JENKINS-000?&logo=Jenkins)
+![Nginx](https://img.shields.io/badge/-NGINX-000?&logo=Nginx)
+![Tomcat](https://img.shields.io/badge/-TOMCAT-000?&logo=Tomcat)
+![Terraform](https://img.shields.io/badge/-TERRAFORM-000?&logo=Terraform)
+![Azure](https://img.shields.io/badge/-AZURE-000?&logo=Azure)
