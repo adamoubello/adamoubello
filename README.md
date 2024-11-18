@@ -1,4 +1,4 @@
-## Hi there 👋 WELCOME TO MY PROFILE PAGE !
+## Hi there 👋 WELCOME !
 
 <!--
 **adamoubello/adamoubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
