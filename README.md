@@ -30,8 +30,13 @@ WELCOME TO MY PROFILE PAGE !
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-000?&logo=Kotlin)
+
+
+### Technologies
+
 ![Postgresql](https://img.shields.io/badge/-POSTGRESQL-000?&logo=PostgreSQL)
-![SqlServer](https://img.shields.io/badge/-SQLSERVER-000?&logo=SqlServer)
+![MSSqlServer](https://img.shields.io/badge/-MSSQLSERVER-000?&logo=MSSqlServer)
 ![Oracle](https://img.shields.io/badge/-ORACLE-000?&logo=Oracle)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-000?&logo=MongoDB)
 ![SpringBoot](https://img.shields.io/badge/-SPRINGBOOT-000?&logo=SpringBoot)
@@ -42,9 +47,9 @@ WELCOME TO MY PROFILE PAGE !
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-000?&logo=Bootstrap)
 ![Playwright](https://img.shields.io/badge/-PLAYWRIGHT-000?&logo=Playwright)
 ![Ionic](https://img.shields.io/badge/-IONIC-000?&logo=Ionic)
+![JackRabbit](https://img.shields.io/badge/-JACKRABBIT-000?&logo=JackRabbit)
 
-### Technologies
-
+![Git](https://img.shields.io/badge/-GIT-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -57,4 +62,6 @@ WELCOME TO MY PROFILE PAGE !
 ![Nginx](https://img.shields.io/badge/-NGINX-000?&logo=Nginx)
 ![Tomcat](https://img.shields.io/badge/-TOMCAT-000?&logo=Tomcat)
 ![Terraform](https://img.shields.io/badge/-TERRAFORM-000?&logo=Terraform)
-![Azure](https://img.shields.io/badge/-AZURE-000?&logo=Azure)
+![Ansible](https://img.shields.io/badge/-ANSIBLE-000?&logo=Ansible)
+![Packer](https://img.shields.io/badge/-PACKER-000?&logo=Packer)
+![AzureCloud](https://img.shields.io/badge/-AZURECLOUD-000?&logo=AzureCloud)
