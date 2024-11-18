@@ -48,7 +48,6 @@ WELCOME TO MY PROFILE PAGE !
 ![Playwright](https://img.shields.io/badge/-PLAYWRIGHT-000?&logo=Playwright)
 ![Ionic](https://img.shields.io/badge/-IONIC-000?&logo=Ionic)
 ![JackRabbit](https://img.shields.io/badge/-JACKRABBIT-000?&logo=JackRabbit)
-
 ![Git](https://img.shields.io/badge/-GIT-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
