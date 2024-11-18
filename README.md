@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Me  
 
-My name's Adamou Bello, I'm an experienced  software, devsecops and application security engineer.
+My name's Adamou Bello, I'm a 14 years experienced software, devsecops and application security engineer.
 
 More of me in my professional website : https://adamoubello.com/
 
