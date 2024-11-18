@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 WELCOME TO MY PROFILE PAGE !
 
 <!--
 **adamoubello/adamoubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,6 @@ My name's Adamou Bello, I'm an experienced  software, devsecops and application 
 
 More of me in my professional website : https://adamoubello.com/
 
-WELCOME TO MY PROFILE PAGE !
 
 ### Languages
 
