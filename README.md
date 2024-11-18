@@ -21,7 +21,7 @@ My name's Adamou Bello, I'm an experienced  software, devsecops and application 
 
 More of me in my professional website : https://adamoubello.com/
 
-Contact me here :  <u>adamou.bello@gmail.com</u>   |   <a href="https://www.linkedin.com/in/adamoubello/" target="_WORD" rel="noreferrer">My LinkedIn profile</a>  
+Contact me here :  <u>adamou.bello@gmail.com</u>   |   <a href="https://www.linkedin.com/in/adamoubello/" onclick="window.open(this.href,'_blank');return false;" >My LinkedIn profile</a>  
 
 
 ### Languages
